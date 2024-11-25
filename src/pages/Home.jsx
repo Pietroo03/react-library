@@ -5,7 +5,7 @@ export default function Home() {
                 <div className="logo">
                     LOGO
                 </div>
-                <nav className="">
+                <nav className="d-flex gap-4">
                     <a href="/">Home</a>
                     <a href="/books">Books</a>
                     <a href="/about">About</a>
