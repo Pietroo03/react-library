@@ -2,10 +2,10 @@ export default function About() {
     return (
         <>
             <header className="d-flex justify-content-between bg-dark text-white p-4">
-                <div className="logo">
+                <div className="logo fs-2">
                     LOGO
                 </div>
-                <nav className="d-flex gap-4">
+                <nav className="d-flex gap-4 fs-5">
                     <a href="/">Home</a>
                     <a href="/books">Books</a>
                     <a href="/about">About</a>
